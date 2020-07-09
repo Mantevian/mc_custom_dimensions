@@ -1,6 +1,6 @@
  {
        "pack": {
            "pack_format": 5,
-           "description": "Mante"
+           "description": "Shatterboard is a checkerboard world but edges of each chunk are cut due to weird world generation with a certain setting. It has every vanilla biome."
        }
    }
